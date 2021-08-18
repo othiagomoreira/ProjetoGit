@@ -1,1 +1,1 @@
-.
+Olá, esse é meu primeiro projeto utilizando a ferramenta de versionamento de código (GIT)
